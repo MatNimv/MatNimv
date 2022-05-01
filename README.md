@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MatNimv
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Javascript and PHP
+- 🌱 I’m currently learning Javascript, React and PHP
 - 📫 How to reach me: matilda.nimvik@gmail.com
 
 <!---
